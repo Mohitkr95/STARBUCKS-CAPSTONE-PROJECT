@@ -1,8 +1,5 @@
 # Starbucks-Capstone-Project
 
-![Starbucks](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pymnts.com%2Fearnings%2F2020%2Fstarbucks-mobile-app-users-now-drive-17-pct-of-sales%2F&psig=AOvVaw014OnuKeDa1fXDq_GixJ4n&ust=1585665046757000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDApuG0wugCFQAAAAAdAAAAABAD)
-
-
 # Installation 
 - Python versions 3.*.
 - Python libraries:
