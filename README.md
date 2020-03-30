@@ -1,6 +1,6 @@
 # Starbucks-Capstone-Project
 
-## Link to my Blog post is [here](https://medium.com/@itsmohit.kr95/starbucks-offer-analysis-ca4da0c6584f)
+### Link to my Blog post is [here](https://medium.com/@itsmohit.kr95/starbucks-offer-analysis-ca4da0c6584f)
 
 # Installation 
 - Python versions 3.*.
